@@ -30,4 +30,4 @@ Here you can visit website:- https://proud-mushroom-0544f2810.1.azurestaticapps.
 
 Here is home page:- 
 
-<img src="portalhome.png" width="200" >
+<img src="portalhome.png" width=100% >
