@@ -29,3 +29,5 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 Here you can visit website:- https://proud-mushroom-0544f2810.1.azurestaticapps.net
 
 Here is home page:- 
+
+< img src="images/portalhome.png" width="200" >
